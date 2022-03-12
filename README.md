@@ -1,1 +1,7 @@
 # whitePaper
+
+# Distributed
+
+# Autonomous
+
+# Coin
