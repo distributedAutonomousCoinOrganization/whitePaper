@@ -2,9 +2,8 @@
 
 # Distributed
 
-[TCP](https://datatracker.ietf.org/doc/html/rfc793)
-
-[IP](https://datatracker.ietf.org/doc/html/rfc791) 
+Transmission Control Protocol ([TCP](https://datatracker.ietf.org/doc/html/rfc793)) interfaces on one side to user or application processes and on
+  the other side to a lower level protocol such as Internet Protocol ([IP](https://datatracker.ietf.org/doc/html/rfc791))  
 
 ## Papers
 
